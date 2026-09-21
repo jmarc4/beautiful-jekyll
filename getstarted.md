@@ -65,7 +65,7 @@ The instructions above explain how to use Beautiful Jekyll in the easiest way: b
      font-size: 30px;
 <!-- only <h3> headers between <div class=gs-section-03> tags -->
  .gs-section-03 h3 { 
-     color: yellow }
+     color: purple }
 <!-- only <h3> headers between <div class=gs-section-03> tags -->
 .gs-section-03 p {
      font-size: 30px;
