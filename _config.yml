@@ -11,6 +11,9 @@ title: PAF514 | Jesus Marcial | Module 5 Website
 # Your name to show in the footer
 author: Jesus Marcial
 
+# Define site URL
+url: https://jmarc4.github.io/beautiful-jekyll/
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
