@@ -12,7 +12,8 @@ title: PAF514 | Jesus Marcial | Module 5 Website
 author: Jesus Marcial
 
 # Define site URL
-url: https://jmarc4.github.io/beautiful-jekyll/
+url: https://jmarc4.github.io
+baseurl: /beautiful-jekyll/
 
 # --- List of links in the navigation bar --- #
 
